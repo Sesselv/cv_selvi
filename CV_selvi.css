@@ -215,7 +215,8 @@ h7:hover {
 .contact,
 .liengit {
     display: flex;
-    background-color: #3f3935;
+    background-color: #756a66;
+    text-shadow: 5px 2px 3px #4c4542;
     border-radius: 10px;
     background-size: fit-content;
     width: 95px;
